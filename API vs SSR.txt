@@ -1,0 +1,12 @@
+Application Programme Interface(API) v/s Server Side Rendering(SSR)
+
+Application programme interface (API)
+---> API-JSON
+---> SEND DATA
+---> RES.JSON()
+
+Server Side Rendering(SSR)
+
+---> SSR:-- Template
+---> SEND TEMPLATE
+---> RES.RENDER()
